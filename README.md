@@ -1,6 +1,4 @@
-# ChattyBunchApp
-Small UDP protocol chat server and client application
+# H1 ChattyBunchApp
+### H3 Small UDP chat application
+### H3 Very early days project for me
 
-ClientWindow.java line 45 change the string "localhost" to whatever ip your server is deployed on.
-
-Firewall rules need to be created for port 52864, or firewall turned off altogether in order to work outside of own network.
