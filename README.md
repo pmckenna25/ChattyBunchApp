@@ -1,4 +1,3 @@
 # ChattyBunchApp
 ### Small UDP chat application
-### Very early days project for me
-
+### Very early days learning project
